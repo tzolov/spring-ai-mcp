@@ -1,3 +1,5 @@
+**NOTE:** This is a temporal repository for the project, until the https://github.com/spring-projects-experimental/spring-ai-mcp becomes public
+
 # Spring AI MCP
 
 Java SDK for the Model Context Protocol (MCP), providing seamless integration between Java and Spring applications and MCP-compliant AI models and tools.
